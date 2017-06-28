@@ -1,0 +1,51 @@
+.modal-body {
+	overflow-y: scroll;
+	height: 0;
+}
+
+.modal-body .icon-flag {
+	height: 1.4rem;
+}
+
+
+
+
+
+#currencies {
+	margin: 0;
+	width: 200px;
+	max-width: 500px;
+}
+
+.currenciesDialog-title {
+	padding: 16px 16px 0;
+	font-size: 2rem;
+}
+
+.currenciesDialog-content {
+	padding: 0;
+	height: 200px;
+	overflow-y: scroll;
+}
+
+.no-padding {
+	padding: 0;
+}
+
+.no-margin {
+	margin: 0;
+}
+
+.text-right {
+	text-align: right;
+}
+
+
+
+.button-select {
+    all: unset;
+    display: inherit;
+    align-items: inherit;
+    width: 100%;
+    cursor: pointer;
+}

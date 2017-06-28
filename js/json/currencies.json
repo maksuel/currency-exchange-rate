@@ -1,0 +1,545 @@
+{
+	"AED": {
+		"description": "United Arab Emirates Dirham"
+	},
+	"AFN": {
+		"description": "Afghanistan Afghani"
+	},
+	"ALL": {
+		"description": "Albania Lek"
+	},
+	"AMD": {
+		"description": "Armenia Dram"
+	},
+	"ANG": {
+		"description": "NL Antilles Guilder"
+	},
+	"AOA": {
+		"description": "Angola Kwanza"
+	},
+	"ARS": {
+		"description": "Argentina Peso"
+	},
+	"ATS": {
+		"description": "Austria Schilling",
+		"append": "(EURO)"
+	},
+	"AUD": {
+		"description": "Australia Dollar",
+		"baseScore": 0,
+		"compareScore": 0
+	},
+	"AWG": {
+		"description": "Aruba Florin"
+	},
+	"AZN": {
+		"description": "Azerbaijan New Manat"
+	},
+	"BAM": {
+		"description": "Bosnia Mark"
+	},
+	"BBD": {
+		"description": "Barbados Dollar"
+	},
+	"BDT": {
+		"description": "Bangladesh Taka"
+	},
+	"BEF": {
+		"description": "Belgium Franc",
+		"append": "(EURO)"
+	},
+	"BGN": {
+		"description": "Bulgaria Lev"
+	},
+	"BHD": {
+		"description": "Bahrain Dinar"
+	},
+	"BIF": {
+		"description": "Burundi Franc"
+	},
+	"BMD": {
+		"description": "Bermuda Dollar"
+	},
+	"BND": {
+		"description": "Brunei Dollar"
+	},
+	"BOB": {
+		"description": "Bolivia Boliviano"
+	},
+	"BRL": {
+		"description": "Brazil Real"
+	},
+	"BSD": {
+		"description": "Bahamas Dollar"
+	},
+	"BTN": {
+		"description": "Bhutan Ngultrum"
+	},
+	"BWP": {
+		"description": "Botswana Pula"
+	},
+	"BYR": {
+		"description": "Belarus Ruble"
+	},
+	"BZD": {
+		"description": "Belize Dollar"
+	},
+	"CAD": {
+		"description": "Canada Dollar"
+	},
+	"CDF": {
+		"description": "Congo Franc"
+	},
+	"CHF": {
+		"description": "Switzerland Franc",
+		"baseScore": 0,
+		"compareScore": 0
+	},
+	"CLP": {
+		"description": "Chili Peso"
+	},
+	"CNY": {
+		"description": "China Yuan/Renminbi"
+	},
+	"COP": {
+		"description": "Colombia Peso"
+	},
+	"CRC": {
+		"description": "Costa Rica Colon"
+	},
+	"CUC": {
+		"description": "Cuba Convertible Peso"
+	},
+	"CUP": {
+		"description": "Cuba Peso"
+	},
+	"CVE": {
+		"description": "Cape Verde Escudo"
+	},
+	"CYP": {
+		"description": "Cyprus Pound",
+		"append": "(EURO)"
+	},
+	"CZK": {
+		"description": "Czech Koruna"
+	},
+	"DJF": {
+		"description": "Djibouti Franc"
+	},
+	"DKK": {
+		"description": "Denmark Krone"
+	},
+	"DMK": {
+		"description": "Germany Mark",
+		"append": "(EURO)"
+	},
+	"DOP": {
+		"description": "Dominican Republich Peso"
+	},
+	"DZD": {
+		"description": "Algeria Dinar"
+	},
+	"EEK": {
+		"description": "Estonia Kroon",
+		"append": "(EURO)"
+	},
+	"EGP": {
+		"description": "Egypt Pound"
+	},
+	"ESP": {
+		"description": "Spain Peseta",
+		"append": "(EURO)"
+	},
+	"ETB": {
+		"description": "Ethiopia Birr"
+	},
+	"EUR": {
+		"description": "Euro",
+		"baseScore": 0,
+		"compareScore": 0
+	},
+	"FIM": {
+		"description": "Finland Markka",
+		"append": "(EURO)"
+	},
+	"FJD": {
+		"description": "Fiji Dollar"
+	},
+	"FKP": {
+		"description": "Falkland Islands Pound"
+	},
+	"GBP": {
+		"description": "Great Britain Pound",
+		"baseScore": 0,
+		"compareScore": 0
+	},
+	"GEL": {
+		"description": "Georgia Lari"
+	},
+	"GHS": {
+		"description": "Ghana New Cedi"
+	},
+	"GIP": {
+		"description": "Gibraltar Pound"
+	},
+	"GMD": {
+		"description": "Gambia Dalasi"
+	},
+	"GNF": {
+		"description": "Guinea Franc"
+	},
+	"GRD": {
+		"description": "Greece Drachma",
+		"append": "(EURO)"
+	},
+	"GTQ": {
+		"description": "Guatemala Quetzal"
+	},
+	"GYD": {
+		"description": "Guyana Dollar"
+	},
+	"HKD": {
+		"description": "Hong Kong Dollar"
+	},
+	"HNL": {
+		"description": "Honduras Lempira"
+	},
+	"HRK": {
+		"description": "Croatia Kuna"
+	},
+	"HTG": {
+		"description": "Haiti Gourde"
+	},
+	"HUF": {
+		"description": "Hungary Forint"
+	},
+	"IDR": {
+		"description": "Indonesia Rupiah"
+	},
+	"IED": {
+		"description": "Ireland Pound",
+		"append": "(EURO)"
+	},
+	"ILS": {
+		"description": "Israel New Shekel"
+	},
+	"INR": {
+		"description": "India Rupee"
+	},
+	"IQD": {
+		"description": "Iraq Dinar"
+	},
+	"IRR": {
+		"description": "Iran Rial"
+	},
+	"ISK": {
+		"description": "Iceland Krona"
+	},
+	"ITL": {
+		"description": "Italy Lira",
+		"append": "(EURO)"
+	},
+	"JMD": {
+		"description": "Jamaica Dollar"
+	},
+	"JOD": {
+		"description": "Jordan Dinar"
+	},
+	"JPY": {
+		"description": "Japan Yen",
+		"baseScore": 0,
+		"compareScore": 0
+	},
+	"KES": {
+		"description": "Kenya Shilling"
+	},
+	"KGS": {
+		"description": "Kyrgyzstan Som"
+	},
+	"KHR": {
+		"description": "Cambodia Riel"
+	},
+	"KMF": {
+		"description": "Comoros Franc"
+	},
+	"KPW": {
+		"description": "North Korea Won"
+	},
+	"KRW": {
+		"description": "South Korea Won"
+	},
+	"KWD": {
+		"description": "Kuwait Dinar"
+	},
+	"KYD": {
+		"description": "Cayman Islands Dollar"
+	},
+	"KZT": {
+		"description": "Kazakhstan Tenge"
+	},
+	"LAK": {
+		"description": "Laos Kip"
+	},
+	"LBP": {
+		"description": "Lebanon Pound"
+	},
+	"LKR": {
+		"description": "Sri Lanka Rupee"
+	},
+	"LRD": {
+		"description": "Liberia Dollar"
+	},
+	"LSL": {
+		"description": "Lesotho Loti"
+	},
+	"LTL": {
+		"description": "Lithuania Litas",
+		"append": "(EURO)"
+	},
+	"LUF": {
+		"description": "Luxembourg Franc",
+		"append": "(EURO)"
+	},
+	"LVL": {
+		"description": "Latvia Lats",
+		"append": "(EURO)"
+	},
+	"LYD": {
+		"description": "Libya Dinar"
+	},
+	"MAD": {
+		"description": "Morocco Dirham"
+	},
+	"MDL": {
+		"description": "Moldova Leu"
+	},
+	"MGA": {
+		"description": "Malagasy Ariary"
+	},
+	"MKD": {
+		"description": "Macedonia Denar"
+	},
+	"MMK": {
+		"description": "Myanmar Kyat"
+	},
+	"MNT": {
+		"description": "Mongolia Tugrik"
+	},
+	"MOP": {
+		"description": "Macau Pataca"
+	},
+	"MRO": {
+		"description": "Mauritania Ouguiya"
+	},
+	"MTL": {
+		"description": "Malta Lira",
+		"append": "(EURO)"
+	},
+	"MUR": {
+		"description": "Mauritius Rupee"
+	},
+	"MVR": {
+		"description": "Maldives Rufiyaa"
+	},
+	"MWK": {
+		"description": "Malawi Kwacha"
+	},
+	"MXN": {
+		"description": "Mexico Peso"
+	},
+	"MYR": {
+		"description": "Malaysia Ringgit"
+	},
+	"MZN": {
+		"description": "Mozambique New Metical"
+	},
+	"NAD": {
+		"description": "Namibia Dollar"
+	},
+	"NGN": {
+		"description": "Nigeria Naira"
+	},
+	"NIO": {
+		"description": "Nicaragua Cordoba Oro"
+	},
+	"NLG": {
+		"description": "Netherlands Guilder",
+		"append": "(EURO)"
+	},
+	"NOK": {
+		"description": "Norway Kroner"
+	},
+	"NPR": {
+		"description": "Nepal Rupee"
+	},
+	"NZD": {
+		"description": "New Zealand Dollar"
+	},
+	"OMR": {
+		"description": "Oman Rial"
+	},
+	"PAB": {
+		"description": "Panama Balboa"
+	},
+	"PEN": {
+		"description": "Peru Nuevo Sol"
+	},
+	"PGK": {
+		"description": "Papua New Guinea Kina"
+	},
+	"PHP": {
+		"description": "Philippines Peso"
+	},
+	"PKR": {
+		"description": "Pakistan Rupee"
+	},
+	"PLN": {
+		"description": "Poland Zloty"
+	},
+	"PTE": {
+		"description": "Portugal Escudo",
+		"append": "(EURO)"
+	},
+	"PYG": {
+		"description": "Paraguay Guarani"
+	},
+	"QAR": {
+		"description": "Qatar Rial"
+	},
+	"RON": {
+		"description": "Romania New Lei"
+	},
+	"RSD": {
+		"description": "Serbia Dinar"
+	},
+	"RUB": {
+		"description": "Russia Rouble"
+	},
+	"RWF": {
+		"description": "Rwanda Franc"
+	},
+	"SAR": {
+		"description": "Saudi Arabia Riyal"
+	},
+	"SBD": {
+		"description": "Solomon Islands Dollar"
+	},
+	"SCR": {
+		"description": "Seychelles Rupee"
+	},
+	"SDG": {
+		"description": "Sudan Pound"
+	},
+	"SEK": {
+		"description": "Sweden Krona"
+	},
+	"SGD": {
+		"description": "Singapore Dollar"
+	},
+	"SHP": {
+		"description": "St Helena Pound"
+	},
+	"SIT": {
+		"description": "Slovenia Tolar",
+		"append": "(EURO)"
+	},
+	"SKK": {
+		"description": "Slovakia Koruna",
+		"append": "(EURO)"
+	},
+	"SLL": {
+		"description": "Sierra Leone Leone"
+	},
+	"SOS": {
+		"description": "Somali Shilling"
+	},
+	"SRD": {
+		"description": "Suriname Dollar"
+	},
+	"STD": {
+		"description": "Sao Tome/Principe Dobra"
+	},
+	"SVC": {
+		"description": "El Salvador Colon"
+	},
+	"SYP": {
+		"description": "Syria Pound"
+	},
+	"SZL": {
+		"description": "Swaziland Lilangeni"
+	},
+	"THB": {
+		"description": "Thailand Baht"
+	},
+	"TMM": {
+		"description": "Turkmenistan Manat"
+	},
+	"TND": {
+		"description": "Tunisia Dinar"
+	},
+	"TOP": {
+		"description": "Tonga Pa'anga"
+	},
+	"TRY": {
+		"description": "Turkish New Lira"
+	},
+	"TTD": {
+		"description": "Trinidad/Tobago Dollar"
+	},
+	"TWD": {
+		"description": "Taiwan Dollar"
+	},
+	"TZS": {
+		"description": "Tanzania Shilling"
+	},
+	"UAH": {
+		"description": "Ukraine Hryvnia"
+	},
+	"UGX": {
+		"description": "Uganda Shilling"
+	},
+	"USD": {
+		"description": "USA Dollar",
+		"baseScore": 0,
+		"compareScore": 0
+	},
+	"UYU": {
+		"description": "Uruguay Peso"
+	},
+	"VEB": {
+		"description": "Venezuela Bolivar"
+	},
+	"VND": {
+		"description": "Vietnam Dong"
+	},
+	"VUV": {
+		"description": "Vanuatu Vatu"
+	},
+	"WST": {
+		"description": "Samoa Tala"
+	},
+	"XAF": {
+		"description": "CFA Franc BEAC"
+	},
+	"XCD": {
+		"description": "East Caribbean Dollar"
+	},
+	"XOF": {
+		"description": "CFA Franc BCEAO"
+	},
+	"XPF": {
+		"description": "CFP Franc"
+	},
+	"YER": {
+		"description": "Yemen Rial"
+	},
+	"ZAR": {
+		"description": "South Africa Rand"
+	},
+	"ZMK": {
+		"description": "Zambia Kwacha"
+	},
+	"ZWD": {
+		"description": "Zimbabwe Dollar"
+	}
+}

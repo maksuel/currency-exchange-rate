@@ -1,0 +1,14 @@
+{
+	"base": {
+		"acronym": "EUR"
+	},
+	"compare": {
+		"acronym": "USD"
+	},
+	"EURUSD": {
+		"lastUpdate": "21/03/2017 T 10:24",
+		"exchangeRate": 1.08,
+		"baseValue": 1,
+		"compareVal": 1.08
+		}
+}
